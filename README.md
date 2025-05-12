@@ -13,7 +13,7 @@
 
 ## 🛡️ Security Researcher & Tool Developer
 
-I create specialized security tools that help ethical hackers, penetration testers, and security researchers in their work. My projects focus on providing robust, user-friendly solutions for common security challenges.
+I create specialized security tools that help users proactively secure their systems, ethical hackers, penetration testers, and security researchers in their work. My projects focus on providing robust, user-friendly solutions to common security challenges.
 
 
 ## 💻 My Security Arsenal
