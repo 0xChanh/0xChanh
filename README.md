@@ -1,70 +1,102 @@
-# 👋 Hello, Security Enthusiasts!
+---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=0xChanh&show_icons=true&theme=radical" alt="GitHub Stats" />
-</div>
-
+<h1 align="center">Hi, I'm <code>0xChanh</code>!</h1>
 <p align="center">
-  <img src="https://img.shields.io/badge/Focus-Cybersecurity-red" alt="Focus" />
-  <img src="https://img.shields.io/badge/Specialty-Security_Tools-blue" alt="Specialty" />
-  <img src="https://img.shields.io/badge/Language-Python-yellow" alt="Language" />
-  <img src="https://img.shields.io/badge/Passion-Ethical_Hacking-green" alt="Passion" />
-</p>
-
-## 🛡️ Security Researcher & Tool Developer
-
-I create specialized security tools that help users proactively secure their systems, ethical hackers, penetration testers, and security researchers in their work. My projects focus on providing robust, user-friendly solutions to common security challenges.
-
-
-## 💻 My Security Arsenal
-
-```
-├── Languages
-│   ├── Python
-│   ├── Nodejs
-│   ├── Bash
-│   └── PowerShell
-│
-├── Security Domains
-│   ├── Malware Analysis
-│   ├── Sandbox Development
-│   ├── Threat Detection
-│   └── System Hardening
-│
-└── Tools & Technologies
-    ├── Virtualization
-    ├── Debugger
-    ├── Network Analysis
-    └── Reverse Engineering
-```
-
-## 🔥 Current Focus
-
-I'm currently working on developing security tools that make complex security tasks more accessible to security professionals. My projects emphasize:
-
-- 🔍 **Isolation Techniques** - Creating secure environments for testing unknown code
-- 🧠 **Intelligent Analysis** - Building tools with smarter detection capabilities
-- 🛠️ **Usability** - Making powerful security tools accessible to more users
-- 📊 **Visualization** - Helping security teams understand complex threats through better data presentation
-
-## 📫 Connect With Me
-
-<p align="center">
-  <a href="https://twitter.com/YOUR_TWITTER" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://medium.com/@YOUR_MEDIUM" target="_blank">
-    <img src="https://img.shields.io/badge/Medium-%23000000.svg?&style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&center=true&vCenter=true&width=435&lines=Coder+by+passion;Security+enthusiast;Web+dev+on+weekends;Just+another+Chanh" alt="Typing SVG" />
 </p>
 
 ---
 
-<div align="center">
-  <p><i>"Security is not a product, but a process." - Bruce Schneier</i></p>
-  
- 
-</div>
+## **About Me**
+
+Once upon a lazy Sunday morning, I was scrolling through YouTube looking for something random to watch. Out of nowhere, a video titled *"C++ Programming Tutorial for Beginners"* popped into my feed.  
+Curious, I clicked on it. One video turned into two, then three. Before I knew it, I had downloaded something called **Dev C++**. That entire Sunday… was spent trying to print just one damn line:  
+> `hello world`
+
+But that one line changed everything.  
+No teachers. No classes. No books.  
+**Just me and the internet** — my greatest classroom.
+
+Fast forward to today:  
+I'm a self-taught developer, mainly working with **Python** and **Node.js**, creating everything from silly weekend projects to tools for **web development** and **cybersecurity**. I don't code to make perfect things. I code because I love the chaos, the bugs, the joy when something finally works after hours of pain.
+
+> I'm not just another dev. I'm your local bowl of spicy code-flavored `Chanh`.
+
+---
+
+## **What I Do**
+
+- Full-stack Web Development  
+- Cybersecurity & Ethical Hacking  
+- Automation & Tools Development  
+- Making fun, chaotic projects that nobody asked for  
+- Learning, sharing, failing, and trying again
+
+---
+
+## **Languages & Tools**
+
+```python
+Languages: Python, JavaScript (Node.js), Bash, HTML/CSS
+
+Tools: VSCode, Git, Linux, Burp Suite, Nmap, Express, Flask, MongoDB, MySQL, Wireshark
+
+
+---
+
+Cool Projects I've Made (Or Broke)
+
+> Coming soon... or never... or whenever I stop procrastinating.
+
+
+
+
+---
+
+Follow Me
+
+YouTube: Your Channel Name Here
+
+Twitter: [Coming Soon]
+
+Dev.to: [Coming Soon]
+
+LinkedIn: [Coming Soon]
+
+
+<!-- TODO: Replace the above placeholders with your actual links -->
+---
+
+Contact Me
+
+Got questions? Ideas? Or just want to say "bro wtf is this project?"
+Feel free to reach out:
+
+Telegram: @yourusername
+
+Email: your.email@example.com
+
+
+<!-- TODO: Replace with your real contact info -->
+---
+
+A Note to Beginners
+
+If you're new to coding, or even if you've never written a line of code —
+You're not late. You're not behind. You're just getting started.
+
+You don’t need a degree.
+You don’t need to be a genius.
+You just need curiosity, patience, and maybe... a little caffeine.
+
+So keep building. Keep breaking things.
+And remember: even hello world can change your life.
+
+
+---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="300"/>
+</p><p align="center"><i>Thanks for stopping by — See you on the dark side of the code!</i></p>
+```
+---
